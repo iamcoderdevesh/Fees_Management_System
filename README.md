@@ -14,6 +14,8 @@ This project aims to develop a desktop application for managing fees in an educa
 
 - [@iamcoderdevesh](https://www.github.com/iamcoderdevesh)
 
+## 💫 About Me:
+👋 Hi, I’m Devesh Ukalkar<br> 💬 Feel Free to Ask me any Question about this project<br>📫 How to reach me deveshukalkar007@gmail.com
 
 ## License
 
