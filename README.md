@@ -1,7 +1,7 @@
 # Fees Management System
 ## Abstract:
 
-This project aims to develop a desktop application for managing fees in an educational institution. The application is built using Java,JDBC & MySql and provides an intuitive user interface for managing student fee records. The system allows users to add, update and delete student records, generate fee receipts and view fee reports. The application is designed to be user-friendly and efficient, making the process of managing fees simple and hassle-free.
+This project aims to develop a desktop application for managing fees in an educational institution. The application is built using Java, JDBC & MySql and provides an intuitive user interface for managing student fee records. The system allows users to add, update and delete student records, generate fee receipts and view fee reports. The application is designed to be user-friendly and efficient, making the process of managing fees simple and hassle-free.
 
 
 ## Technologies Used
