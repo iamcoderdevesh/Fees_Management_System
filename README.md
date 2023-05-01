@@ -41,10 +41,6 @@ This project aims to develop a desktop application for managing fees in an educa
 ![App Screenshot](https://intensional-chair.000webhostapp.com/Fees_Management_System/Screenshot%20(503).png)
 
 
-## Authors
-
-- [@iamcoderdevesh](https://www.github.com/iamcoderdevesh)
-
 ## 🚀 About Me
 - 👋 Hi, I’m Devesh Ukalkar
 - 💬 Feel Free to Ask me any Question about this project.
